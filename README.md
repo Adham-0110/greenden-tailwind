@@ -2,10 +2,6 @@
 
 A fully responsive website built with HTML and TailwindCSS. This website is designed to adapt seamlessly across different screen sizes, providing an optimal viewing experience on mobile, tablet, and desktop devices.
 
-## Demo
-
-You can preview the live version of the website [here](#).
-
 ## Features
 
 - **Responsive Design**: Automatically adjusts layout to fit any screen size.
